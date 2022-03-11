@@ -36,11 +36,10 @@ function RenderComments({ comments }) {
             </div>
           );
         })}
-        ;
       </div>
     );
   }
-  return <div />;
+  return <div />
 }
 
 function CampsiteInfo(props) {
@@ -54,7 +53,7 @@ function CampsiteInfo(props) {
       </div>
     );
   }
-  return <div />;
+  return <div />
 }
 
 export default CampsiteInfo;
